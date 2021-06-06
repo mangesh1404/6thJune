@@ -14,3 +14,8 @@ Examples:
 |mangesh@gmail.com|qwerty|
 |neelam@gmail.com |asdfgh|
 
+Scenario: logo test
+
+When user on the login page
+Then user should see a logo
+
